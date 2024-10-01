@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+#product-list div {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
